@@ -46,14 +46,23 @@ Upon launching the loan qualifier application you will be greeted with the follo
 
 Both images show the list of questions asked and the potential answers a user may provide.
 
+![Loan Qualifier Prompts - Yes](Image_Yes_Module_2.png)
+
+![Loan Qualifier Prompts - No](Image_No_Module_2.png)
+
+
 ---
 
 ## Contributors
 
-In this section, list all the people who contribute to this project. You might want recruiters or potential collaborators to reach you, so include your contact email and, optionally, your LinkedIn or Twitter profile.
+<!-- In this section, list all the people who contribute to this project. You might want recruiters or potential collaborators to reach you, so include your contact email and, optionally, your LinkedIn or Twitter profile. -->
 
+Brought to you by Marvin Lee.
+Email: Marvinlee100@gmail.com
 ---
 
 ## License
 
-When you share a project on a repository, especially a public one, it's important to choose the right license to specify what others can and can't with your source code and files. Use this section to include the license you want to use.
+<!-- When you share a project on a repository, especially a public one, it's important to choose the right license to specify what others can and can't with your source code and files. Use this section to include the license you want to use. -->
+
+MIT
