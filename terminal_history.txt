@@ -1,0 +1,51 @@
+   14  git status
+   15  git add README_original.md
+   16  git status
+   17  git status
+   18  git status
+   19  git status
+   20  git add app.py
+   21  git add data/
+   22  git add qualifier
+   23  git status
+   24  git status
+   25  git commit -m "Added all necessary files into repo"
+   26  git status
+   27  git add README.md
+   28  git status
+   29  git add README_original.md
+   30  git status
+   31  git status
+   32  git commit -m "Files have been appropriately labeled and uploaded. Did not work on it yet."
+   33  git status
+   34  git status
+   35  git add app.py
+   36  git status
+   37  git add README_original.md
+   38  git status
+   39  git commit -m "imported csv & created def save_csv
+"
+   40  git status
+   41  git add app.py
+   42  git status
+   43  git status
+   44  git commit -m "Completed def save_qualifying_loans"
+   45  git push
+   46  git status
+   47  git status
+   48  git status
+   49  git add README.md
+   50  git commit -m "Updating README.md"
+   51  git push
+   52  git status
+   53  git add Image_No_Module_2.png
+   54  git add Image_Yes_Module_2.png
+   55  git add john_doe_list.csv
+   56  git add qualifying_loans.csv
+   57  git status
+   58  git add README.md
+   59  git status
+   60  git push
+   61  git commit -m "Everything is working. All files have been added."
+   62  git push
+   63  history 50 > terminal_history_2.txt

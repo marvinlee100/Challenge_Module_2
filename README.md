@@ -58,7 +58,8 @@ Both images show the list of questions asked and the potential answers a user ma
 <!-- In this section, list all the people who contribute to this project. You might want recruiters or potential collaborators to reach you, so include your contact email and, optionally, your LinkedIn or Twitter profile. -->
 
 Brought to you by Marvin Lee.
-Email: Marvinlee100@gmail.com
+* Email: Marvinlee100@gmail.com
+* Phone: 212-555-1234
 ---
 
 ## License
