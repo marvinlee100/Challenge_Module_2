@@ -6,6 +6,28 @@ This is a command line application to match applicants with qualifying loans.
 Example:
     $ python app.py
 """
+
+import csv
+
+print("Please remember to save your results as a CSV file.")    # Reminder for the user
+
+def save_csv(csvpath, data, header=("Lender", "Max Loan Amount", "Max LTV", "Max DTI", "Min Credit Score", "Interest Rate")):
+
+    """Uses the csv library to save the qualifying data as a file.
+    
+    Args:
+        csvpath (Path): The CSV file path.
+        data (list of lists): A list of the rows of data for the CSV file.
+        header (list): An optional header for the CSV.
+    
+    """
+
+    with open(csvpath, "w", newline="") as csvfile:
+        csvwriter = csv.writer(csvfile, delimiter=',')
+        if header:
+            csvwriter.writerow(header)
+        csvwriter.writerows(data)
+
 import sys
 import fire
 import questionary
